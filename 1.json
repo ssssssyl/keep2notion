@@ -7,14 +7,14 @@
             "birthday": 794016000000,
             "_id": "58ca71f78c26a35470e26b3c"
         },
-        "id": "58ca71f78c26a35470e26b3c_9223370296980455333_tr",
+        "id": "58ca71f78c26a35470e26b3c_9223370296884374104_tr",
         "feel": 3,
-        "calorie": 184,
-        "duration": 1616,
-        "startTime": 1739872703698,
-        "endTime": 1739874320474,
+        "calorie": 12,
+        "duration": 184,
+        "startTime": 1739970217569,
+        "endTime": 1739970401703,
         "type": "training",
-        "subtype": "normal",
+        "subtype": "ball",
         "timezone": "Asia/Shanghai",
         "richText": "",
         "entryInfo": {
@@ -36,12 +36,12 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "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",
-            "averageHeartRate": 146.0,
-            "maxHeartRate": 177,
+            "heartRates": "H4sIAAAAAAAAE4vmUlCoBmIFBaXM4oDE0uJUJQUrhbTEnOJUHYhwUmpiSXFAapFvZl5pCVjW0MAMKleSmZtaXJKYWwAWNjQ2RRJ3rMgshgkDRWu5YgFu5a+WbAAAAA==",
+            "averageHeartRate": 106.0,
+            "maxHeartRate": 106,
             "wearableDevices": [
                 {
-                    "macAddress": "C9AECBAF-21ED-4452-86A4-51873DE78B7D",
+                    "macAddress": "A091544E-DB51-4B9E-9D40-A960A07F9B26",
                     "name": "Apple Watch Series 7",
                     "deviceType": "Apple Watch"
                 }
@@ -64,7 +64,7 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "dance",
+        "dataType": "badminton",
         "badgeAchievementCard": null,
         "trainingCourseType": "workout",
         "trainingSource": "others",
