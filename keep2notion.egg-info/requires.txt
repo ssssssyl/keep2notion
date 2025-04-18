@@ -1,7 +1,8 @@
 requests
+pendulum
+retrying
 notion-client
 github-heatmap
-retrying
-pendulum
 python-dotenv
-keep2notion
+emoji
+bson
